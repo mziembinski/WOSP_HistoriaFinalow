@@ -5,6 +5,7 @@ Wykres w d3.js prezentujący wyniki finałów WOŚP.
 
 ## Hisotry of fundraising results of Great Orchestra of Christmas Charity
 Barchart in d3.js presenting fundraising results of WOŚP.
+[Online chart](http://bl.ocks.org/mziembinski/raw/5d51aecea7501de31113dc51612a9f2f/)
 
 
 ## Links
